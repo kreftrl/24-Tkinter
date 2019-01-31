@@ -27,7 +27,7 @@ def main():
     # DONE: 4. After reading and understanding the m2e module,
     #   ** put a Button on the Frame. **
     # -------------------------------------------------------------------------
-    python_is_cool_button=ttk.Button(frame1,text="python is cool")
+    python_is_cool_button=ttk.Button(frame1,text="Python is cool")
     python_is_cool_button.grid()
     # -------------------------------------------------------------------------
     # DONE: 5. After reading and understanding the m3e module,
